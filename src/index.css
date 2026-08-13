@@ -1,0 +1,63 @@
+@import 'tailwindcss';
+@custom-variant dark (&:is(.dark *));
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-gray-900;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111827;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #374151;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2563eb;
+}
+body {
+  @apply bg-gray-900;
+  cursor: none;
+}
+
+a,
+button,
+[role='button'] {
+  cursor: pointer;
+}
+body,
+a,
+button,
+[role='button'] {
+  cursor: none !important;
+}
+body,
+a,
+button,
+[role='button'],
+.cursor-pointer {
+  cursor: none !important;
+}
+body,
+a,
+button,
+[role='button'],
+.cursor-pointer {
+  cursor: none !important;
+}
+
+body,
+a,
+button,
+[role='button'],
+.cursor-pointer {
+  cursor: none !important;
+}
