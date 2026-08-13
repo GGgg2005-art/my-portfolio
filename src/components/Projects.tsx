@@ -16,7 +16,8 @@ const rawProjectsMeta: ProjectMeta[] = [
     tech: ['React', 'Tailwind CSS', 'FastAPI', 'Docker', 'Nginx'],
     category: 'Frontend',
     linkTextKey: 'demoBtn',
-    linkUrl: '#',
+    linkUrl:
+      'https://drive.google.com/file/d/1IhyFQ1Z0r_VRW6ImKIswV_sIIVsrUqFJ/view?usp=drive_link',
   },
   {
     tech: [
@@ -32,13 +33,13 @@ const rawProjectsMeta: ProjectMeta[] = [
     ],
     category: 'Backend',
     linkTextKey: 'detailsBtn',
-    linkUrl: '#',
+    linkUrl: 'https://ezon-shop.com/',
   },
   {
     tech: ['OpenCart 2', 'TPL', 'MariaDB', 'Docker', 'Nginx'],
     category: 'Infrastructure',
     linkTextKey: 'detailsBtn',
-    linkUrl: '#',
+    linkUrl: 'https://mtsbaza.com.ua/',
   },
 ];
 

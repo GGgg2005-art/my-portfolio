@@ -66,7 +66,7 @@ const About: React.FC = () => {
 
           <div className="space-y-4 text-gray-300 flex-grow">
             <div>
-              <span className="text-green-400 font-bold">yaroslav@dev</span>
+              <span className="text-green-400 font-bold">dmytro@dev</span>
               <span className="text-blue-400">~/portfolio</span>
               <span className="text-gray-400"> $ </span>
               <span className="text-white">{t.terminal.command1}</span>
@@ -79,7 +79,7 @@ const About: React.FC = () => {
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.5 }}
               >
-                <span className="text-green-400 font-bold">yaroslav@dev</span>
+                <span className="text-green-400 font-bold">dmytro@dev</span>
                 <span className="text-blue-400">~/portfolio</span>
                 <span className="text-gray-400"> $ </span>
                 <span className="text-white">{t.terminal.command2}</span>
@@ -95,7 +95,7 @@ const About: React.FC = () => {
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.5 }}
               >
-                <span className="text-green-400 font-bold">yaroslav@dev</span>
+                <span className="text-green-400 font-bold">dmytro@dev</span>
                 <span className="text-blue-400">~/portfolio</span>
                 <span className="text-gray-400"> $ </span>
                 <span className="text-white">{t.terminal.command3}</span>
